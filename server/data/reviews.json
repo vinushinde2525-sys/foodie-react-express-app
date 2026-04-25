@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "foodId": 1,
+    "name": "Rohan Mehta",
+    "avatar": "https://i.pravatar.cc/80?img=11",
+    "rating": 5,
+    "comment": "Honestly the best burger I've had in this city. The smash patty technique gives it incredible crust and the comeback sauce is addictive. Will be back every week!",
+    "date": "2025-02-10",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "foodId": 1,
+    "name": "Priya Sharma",
+    "avatar": "https://i.pravatar.cc/80?img=47",
+    "rating": 5,
+    "comment": "Perfect burger, perfect fries, perfect experience. The cheese pull alone is worth it.",
+    "date": "2025-02-08",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "foodId": 2,
+    "name": "Arjun Patel",
+    "avatar": "https://i.pravatar.cc/80?img=33",
+    "rating": 5,
+    "comment": "Reminded me of the pizzas I had in Naples. The mozzarella di bufala is genuinely fresh and the tomato sauce has incredible depth.",
+    "date": "2025-02-05",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "foodId": 3,
+    "name": "Sneha Rao",
+    "avatar": "https://i.pravatar.cc/80?img=23",
+    "rating": 5,
+    "comment": "Crunchiest chicken I've ever had! That buttermilk marinade makes such a difference.",
+    "date": "2025-01-28",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "foodId": 9,
+    "name": "Vikram Singh",
+    "avatar": "https://i.pravatar.cc/80?img=52",
+    "rating": 5,
+    "comment": "The paneer tikka masala is restaurant-quality. The charred paneer with that creamy sauce is perfection.",
+    "date": "2025-02-12",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "foodId": 7,
+    "name": "Ananya Gupta",
+    "avatar": "https://i.pravatar.cc/80?img=16",
+    "rating": 4,
+    "comment": "The cup-and-char pepperoni concept is genius. Every bite has those amazing crispy pepperoni cups. Only wish there was more cheese.",
+    "date": "2025-01-31",
+    "verified": true
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1774604182594,
+    "orderId": "FD-WVZMQCNK",
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Smash Burger",
+        "price": 249,
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "bhumi kori",
+      "email": "riteshmore50630@gmail.com",
+      "phone": "4568765"
+    },
+    "address": "wakadai nagar, mangoan - 12453",
+    "paymentMethod": "COD",
+    "subtotal": 498,
+    "tax": 25,
+    "deliveryFee": 40,
+    "total": 563,
+    "status": "confirmed",
+    "estimatedDelivery": "30–45 min",
+    "createdAt": "2026-03-27T09:36:22.594Z"
+  }
+]
