@@ -206,13 +206,9 @@ npm run build
 
 ## 📸 Screenshots
 
+![home](image-2.png)
 
-
-```md
-![Home](image.png)
-![Menu](image-1.png)
-
-
+![Menu](image-3.png)
 
 ---
 
@@ -246,6 +242,4 @@ Contributions are welcome!
 
 ---
 
-<p align="center">
-  ⭐ Star this repository if you found it useful!
-</p>
+
